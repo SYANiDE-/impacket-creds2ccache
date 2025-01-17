@@ -3,7 +3,7 @@ impacket-creds2ccache can iterate over a colon-delimited list of username:passwo
 
 ### Usage
 ```
-USAGE: /home/notroot/bin/impacket-credfile2ccaches.sh 
+USAGE: /home/notroot/bin/impacket-creds2ccaches.sh 
     -c|--credfile <credfile>  : credfile, username:password:hash format
                                 password and hash are optional, delims are
                                 not
