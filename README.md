@@ -30,7 +30,7 @@ yomamas_momma::be1ce1381c084dc4cda8159a665b3c59
 ### Example in action
 ```
 ┌──(notroot㉿elysium)-[~/engagement/chupacabra]
-└─$ impacket-credfile2ccaches.sh --domain chupacabra.local --dc dc4.chupacabra.local --credfile creds.txt 
+└─$ impacket-creds2ccaches.sh --domain chupacabra.local --dc dc4.chupacabra.local --credfile creds.txt 
 [*] Saving ticket in goat_sucker_da.ccache
 [*] Saving ticket in jeremy_spoken.ccache
 [*] Saving ticket in kunta_kinte.ccache
